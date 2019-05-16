@@ -1,0 +1,14 @@
+pandas
+gensim
+scikit-learn
+tqdm
+s3fs
+pillow
+configobj
+numpy
+munch
+click
+findspark
+pygeohash
+tqdm
+fastparquet

@@ -1,0 +1,15 @@
+local/
+.venv/
+venv*/
+dist/
+notebooks/
+reports/
+spark-warehouse/
+tasks/
+data/
+dist/
+local/
+.python/
+.pytest_cache/
+**/*.db
+src/
