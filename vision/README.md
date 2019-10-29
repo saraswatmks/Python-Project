@@ -1,3 +1,0 @@
-# Vision
-
-similar item recommendations
